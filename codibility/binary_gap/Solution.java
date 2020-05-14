@@ -1,4 +1,4 @@
-package codibility.binary_gap;
+package codility.binary_gap;
 
 import java.util.Arrays;
 import java.util.Iterator;
