@@ -1,0 +1,12 @@
+.metadata
+.classpath
+.project
+.settings/
+.tern-project
+target/
+Servers
+RemoteSystemsTempFiles
+.recommenders/
+.sonarlint
+.class
+**/META-INF/
